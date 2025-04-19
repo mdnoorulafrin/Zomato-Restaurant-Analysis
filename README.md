@@ -1,24 +1,44 @@
 # Zomato-Restaurant-Analysis
-This project demonstrates how Tableau can be used to visualize and analyze restaurant data from Zomato, offering insights into dining trends across various countries and cities.
+This project focuses on analyzing a Zomato dataset using both Tableau and Power BI to uncover key insights about restaurant trends, customer preferences, and service availability across various cities and countries.
 
-Using Tableau, I built an interactive dashboard that highlights:
+🔷 Tableau:
+In Tableau, I designed a clean and interactive dashboard that allows users to:
 
-Top cities and countries by restaurant count
+Explore top cities and countries by restaurant count
 
-Popular cuisines and average cost comparisons
+Analyze cuisine popularity and average cost comparisons
 
-Customer ratings and vote distributions
+Visualize customer ratings and votes
 
-Online delivery and table booking availability
+Understand the availability of online delivery and table booking
 
- Tableau Features Used:
- 
-Interactive filters and parameters for dynamic exploration
+Key Features Used:
 
-Calculated fields to derive key metrics like cost categories and delivery options
+Interactive filters, slicers, and parameters
 
-Geo maps to show restaurant presence by location
+Geo maps for location-based insights
 
-KPI cards, bar charts, pie charts, and scatter plots for visual storytelling
+Calculated fields for customized metrics
 
-This dashboard allows users to uncover patterns and insights useful for business decision-making in the food and restaurant industry.
+Pie charts, bar graphs, scatter plots, and KPI cards
+
+🟨 Power BI:
+Using Power BI, I built a similar dashboard with added focus on data modeling and DAX for in-depth insights. The dashboard includes:
+
+Dynamic visuals for comparing restaurant data by country and city
+
+Custom DAX measures for analyzing rating trends, average costs, and service types
+
+Clean page navigation and slicers for a user-friendly experience
+
+Key Features Used:
+
+Power Query for data transformation
+
+DAX for calculated columns and measures
+
+Map visuals, column charts, donut charts, and cards
+
+Bookmark navigation for smooth storytelling
+
+This project showcases the strengths of both tools—Tableau for visual storytelling and Power BI for robust modeling and business analytics. It highlights how both platforms can be used effectively to analyze real-world datasets and support data-driven decision-making.
